@@ -1,4 +1,4 @@
-# Hey, I'm Yerassyl 👋
+# Hey, I'm Erasyl 👋
 
 **QA Engineer** with 3+ years of experience in manual and API testing at large-scale products.  
 Currently at **Olimpbet** · Previously at **inDrive** · Based in Astana, Kazakhstan
